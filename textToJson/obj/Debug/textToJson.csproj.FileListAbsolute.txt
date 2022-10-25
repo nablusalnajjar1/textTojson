@@ -1,0 +1,11 @@
+C:\Users\nablus\source\repos\textToJson\textToJson\bin\Debug\textToJson.exe.config
+C:\Users\nablus\source\repos\textToJson\textToJson\bin\Debug\textToJson.exe
+C:\Users\nablus\source\repos\textToJson\textToJson\bin\Debug\textToJson.pdb
+C:\Users\nablus\source\repos\textToJson\textToJson\obj\Debug\textToJson.csproj.AssemblyReference.cache
+C:\Users\nablus\source\repos\textToJson\textToJson\obj\Debug\textToJson.csproj.SuggestedBindingRedirects.cache
+C:\Users\nablus\source\repos\textToJson\textToJson\obj\Debug\textToJson.csproj.CoreCompileInputs.cache
+C:\Users\nablus\source\repos\textToJson\textToJson\obj\Debug\textToJson.exe
+C:\Users\nablus\source\repos\textToJson\textToJson\obj\Debug\textToJson.pdb
+C:\Users\nablus\source\repos\textToJson\textToJson\bin\Debug\Newtonsoft.Json.dll
+C:\Users\nablus\source\repos\textToJson\textToJson\bin\Debug\Newtonsoft.Json.xml
+C:\Users\nablus\source\repos\textToJson\textToJson\obj\Debug\textToJson.csproj.CopyComplete
